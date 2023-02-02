@@ -2,6 +2,7 @@
 In this project,we simulate Mcdonald's exclusive food ordering system called “點點卡.”  
 There are 2 main systems we create,such as **Odering System**(**User System**),and **Staff System**.   
 [DEMO VIDEO](https://youtu.be/1qk7tYpyKB4)  
+[PROJECT REPORT](https://github.com/XuAnn175/Mcdonald-s-Food-Ordering-System/blob/main/Hw3-Final%20Project_report.pdf)  
 
  ## Implementation
  Frontend : python  
