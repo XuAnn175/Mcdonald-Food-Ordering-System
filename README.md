@@ -12,7 +12,7 @@ There are 3 main systems we create,**Odering System**,**User System**,and **Arra
  Every transaction details will be recorded in the database system called "Log",and only staff can access them.  
  2. **Food Ordering**  
  Users can buy foods using either money or the points in their cards,and the receipt will be given as a file.  
- ## Arrangement System  
+ ## Management System  
  1. **Transaction Log**  
  Staff can check the transaction log to check any error.  
  2. **Special Gift**  
